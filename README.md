@@ -5,4 +5,4 @@ To build a stopwatch web application, you can use HTML, CSS, and JavaScript. HTM
 ![image](https://github.com/samridhi1411/PRODIGY_WD_02/assets/131517145/8c072606-9618-43ab-ba38-3126aa2bdb83)
 
 
-![Screenshot (48)](https://github.com/samridhi1411/PRODIGY_WD_02/assets/131517145/7daa5b01-a7d1-4e40-812d-965706253e6c)
+![Screenshot (49)](https://github.com/samridhi1411/PRODIGY_WD_02/assets/131517145/d9f5e9c9-f637-46c8-9322-d8f7c269241d)
